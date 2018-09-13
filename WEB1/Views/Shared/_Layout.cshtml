@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>@ViewBag.Title</title>
+        <meta charset="utf-8" />
+        @Styles.Render("~/Content/css")
+        @Scripts.Render("~/bundles/modernizr")
+    </head>
+    <body>
+        <div>
+            <a href="@Url.Action("Catalog", "Home")">Katalogs</a>
+            <a href="@Url.Action("About", "Home")">Par veikalu</a>
+        </div>
+        @RenderBody()
+    </body>
+</html>
