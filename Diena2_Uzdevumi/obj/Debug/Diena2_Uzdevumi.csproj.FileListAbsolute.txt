@@ -1,0 +1,7 @@
+C:\Users\Green\Desktop\Coding\Riga Coding\Diena2_Uzdevumi\bin\Debug\Diena2_Uzdevumi.exe.config
+C:\Users\Green\Desktop\Coding\Riga Coding\Diena2_Uzdevumi\bin\Debug\Diena2_Uzdevumi.exe
+C:\Users\Green\Desktop\Coding\Riga Coding\Diena2_Uzdevumi\bin\Debug\Diena2_Uzdevumi.pdb
+C:\Users\Green\Desktop\Coding\Riga Coding\Diena2_Uzdevumi\obj\Debug\Diena2_Uzdevumi.csproj.CoreCompileInputs.cache
+C:\Users\Green\Desktop\Coding\Riga Coding\Diena2_Uzdevumi\obj\Debug\Diena2_Uzdevumi.exe
+C:\Users\Green\Desktop\Coding\Riga Coding\Diena2_Uzdevumi\obj\Debug\Diena2_Uzdevumi.pdb
+C:\Users\Green\Desktop\Coding\Riga Coding\Diena2_Uzdevumi\obj\Debug\Diena2_Uzdevumi.csprojAssemblyReference.cache
