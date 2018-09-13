@@ -1,0 +1,7 @@
+C:\Users\Green\Desktop\Coding\Riga Coding\PraktiskaisDarbs\obj\Debug\PraktiskaisDarbs.csprojAssemblyReference.cache
+C:\Users\Green\Desktop\Coding\Riga Coding\PraktiskaisDarbs\obj\Debug\PraktiskaisDarbs.csproj.CoreCompileInputs.cache
+C:\Users\Green\Desktop\Coding\Riga Coding\PraktiskaisDarbs\bin\Debug\PraktiskaisDarbs.exe.config
+C:\Users\Green\Desktop\Coding\Riga Coding\PraktiskaisDarbs\bin\Debug\PraktiskaisDarbs.exe
+C:\Users\Green\Desktop\Coding\Riga Coding\PraktiskaisDarbs\bin\Debug\PraktiskaisDarbs.pdb
+C:\Users\Green\Desktop\Coding\Riga Coding\PraktiskaisDarbs\obj\Debug\PraktiskaisDarbs.exe
+C:\Users\Green\Desktop\Coding\Riga Coding\PraktiskaisDarbs\obj\Debug\PraktiskaisDarbs.pdb
