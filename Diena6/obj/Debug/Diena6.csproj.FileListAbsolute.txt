@@ -1,0 +1,7 @@
+C:\Users\Green\Desktop\Coding\Riga Coding\Diena6\bin\Debug\Diena6.exe.config
+C:\Users\Green\Desktop\Coding\Riga Coding\Diena6\bin\Debug\Diena6.exe
+C:\Users\Green\Desktop\Coding\Riga Coding\Diena6\bin\Debug\Diena6.pdb
+C:\Users\Green\Desktop\Coding\Riga Coding\Diena6\obj\Debug\Diena6.csprojAssemblyReference.cache
+C:\Users\Green\Desktop\Coding\Riga Coding\Diena6\obj\Debug\Diena6.csproj.CoreCompileInputs.cache
+C:\Users\Green\Desktop\Coding\Riga Coding\Diena6\obj\Debug\Diena6.exe
+C:\Users\Green\Desktop\Coding\Riga Coding\Diena6\obj\Debug\Diena6.pdb
